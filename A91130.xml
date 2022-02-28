@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The protestation taken by the commissioners of Cornwall and Devon, at Stone-house neare Plymouth, on the 5. of March. 1642. With their propositions, replies and answers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91130</idno>
+            <idno type="STC">Wing P3872</idno>
+            <idno type="STC">Thomason E94_21</idno>
+            <idno type="STC">ESTC R9019</idno>
+            <idno type="EEBO-CITATION">99873449</idno>
+            <idno type="PROQUEST">99873449</idno>
+            <idno type="VID">155788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155788)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E94[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The protestation taken by the commissioners of Cornwall and Devon, at Stone-house neare Plymouth, on the 5. of March. 1642. With their propositions, replies and answers.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>BLC lists this work under "Reports and memorials issued by various bodies of inhabitants" under the headings for Devon and Cornwall.</note>
+                  <note>Annotation on Thomason copy: "March 30".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cornwall  (England : County) --  Politics and government --  Early works to 1800.</term>
+               <term>Devon (England) --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155788:1"/>
+            <pb facs="tcp:155788:1" rendition="simple:additions"/>
+            <p>THE <hi>PROTESTATION</hi> Taken by The Commiſsioners OF CORNWALL and DEVON, at <hi>Stone-Houſe</hi> neare <hi>Plymoth,</hi> on the 5. of MARCH. 1642.</p>
+            <p>WITH Their PROPOSITIONS, REPLIES, and ANSWERS.</p>
+            <p>
+               <hi>Printed in the yeare</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="protest">
+            <pb facs="tcp:155788:2"/>
+            <pb n="1" facs="tcp:155788:2"/>
+            <head>The Proteſtation Taken by the Commiſsioners of
+<hi>Cornwall</hi> and <hi>Devon</hi> at <hi>Stone-houſe</hi> near PLYMOUTH, on the fifth of <hi>March.</hi> 1642.</head>
+            <head type="sub">With their PROPOSITIONS, REPLIES and ANSWERS.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>A. B.</hi> ſolemnly Vow and Proteſt in the preſence of Almighty God, that I did not only come a Commiſ<g ref="char:EOLhyphen"/>ſioner into this Treaty with a hearty and fervent deſire of concluding on honourable and firm peace between the two Counties of <hi>Cornwall</hi> and <hi>Devon,</hi> but alſo will to the utmoſt of my power proſecute, and really en<g ref="char:EOLhyphen"/>deavour to accompliſh and effect the ſame, by all the lawfull wayes and means I poſſibly can; firſt by main<g ref="char:EOLhyphen"/>taining the Proteſtant Religion eſtabliſhed by Law <pb n="2" facs="tcp:155788:3"/> in the Church of <hi>England,</hi> the juſt Rights and Pre<g ref="char:EOLhyphen"/>rogatives of our Soveraigne Lord the King, the juſt Priviledges and Freedome of Parliament, together with the liberty of the Subject, and that I am without any intention by fomenting this unnaturall Warre, to gaine or hope to advantage my ſelf with the reall or perſonall eſtate of any perſon whatſoever, or ob<g ref="char:EOLhyphen"/>taining any office, command, title of Honour, bene<g ref="char:EOLhyphen"/>fit, or reward, either from the Kings Majeſty, or both or either Houſes of Parliament now aſſembled; And this I take in the preſence of Almighty God, and as I ſhall anſwer the ſame at his Tribunall, according to the literall ſence, and meaning of the foregoing words, without any equivocation, Mentall reſervati<g ref="char:EOLhyphen"/>on, or Evaſion whatſoever, ſo help me God.</p>
+            <div type="articles">
+               <head>Articles propounded by the Commiſsioners of
+<hi>Cornwall</hi> and <hi>Devon.</hi>
+               </head>
+               <p>THat it may clearly appeare to all the world, who are the faithfull followers of the Proteſtation by us taken, and ſworne, and by the Evangeliſt con<g ref="char:EOLhyphen"/>firmed by the receiving of the holy Sacrament. And who that breaks, we deſire that the ſaid Proteſtation, together with the Articles may be freely and truly publiſhed in all the the pariſh Churches, and all the Market townes upon their Market dayes in both counties, without any alteration, either in writing, reading, or publiſhing the ſame.</p>
+               <div n="1" type="article">
+                  <head>I.</head>
+                  <p>That the Book of Common-Prayer, Adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacrament, doctrine and diſcipline of the <pb n="3" facs="tcp:155788:3"/> Church of <hi>England,</hi> formerly eſtabliſhed by lawfull Authority for the true and ſincere worſhip of God, be duly and truly obſerved in all pariſhes in both Counties, untill the diſcipline bee altered by ſuch Authority as it was firſt eſtabliſhed, and that all the infringers, and depravers of the ſame, either Clergie or Laitie, be duly proceeded againſt, and puniſhed ac<g ref="char:EOLhyphen"/>cording to the known lawes of the land.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>II.</head>
+                  <p>That the common and Statute-Laws of the Realm of
+<hi>England</hi> be put duly in execution againſt all offen<g ref="char:EOLhyphen"/>ders, and violaters of the ſame in either county, ac<g ref="char:EOLhyphen"/>cording to the uſuall legall courſe, as hath been anci<g ref="char:EOLhyphen"/>ently accuſtomed.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>III.</head>
+                  <p>That all trade, traffick, and free commerce be free, and open between both counties as heretofore, in the moſt beſt and peaceable times hath been.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>IV.</head>
+                  <p>That no man in his perſon eſtate or goods bee ar<g ref="char:EOLhyphen"/>reſted, impriſoned, detained, outed or diſpoſſeſſed, or any bee moleſted by any Power or Authority whatſoever; without due proceſſe or proceedings, according to the knowne lawes of the land.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>V.</head>
+                  <p>That all new erected fortifications and ſet-guards within the city of <hi>Exon,</hi> and in and upon all the Townes, Outlands, Caſtles, and Paſſages, within the county of <hi>Cornwall</hi> and <hi>Devon,</hi> be within <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> dayes re<g ref="char:EOLhyphen"/>moved, and ſlighed at the coſt and charges of the E<g ref="char:EOLhyphen"/>rectors and Maintainers of the ſame: and no wiſe maintained to the terrour or affrightment of His <pb n="4" facs="tcp:155788:4"/> Majeſties Subjects of either county, and that His Majeſties Caſtles, Forts, and other ancient and uſuall places of command be put into the ſame hands, and cuſtody that they were before theſe unhappy diffe<g ref="char:EOLhyphen"/>rences, and aſſurance given for the maintenance there<g ref="char:EOLhyphen"/>of, without any addition or alteration; and that all Armes and Ammunition of any perſon or perſons whatſoever in either county, that have been taken not in fight, battell, or skirmiſh, be again reſtored in kind or value to the true owners.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>VI.</head>
+                  <p>That all troops and companies of horſe and foot, be within
+<gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> dayes either disbanded, or quitted both counties and the city of <hi>Exon.</hi>
+                  </p>
+               </div>
+               <div n="7" type="article">
+                  <head>VII.</head>
+                  <p>That all Forces of horſe and foot, in the quitting both counties may march and paſſe peaceably with their Armes, Ammunition, Artillery, and Carriages through the ſame; paying truly and juſtly for ſuch proviſion, or other neceſſaries as they ſhall have need of, after the rate of foure pence a meale; and be pro<g ref="char:EOLhyphen"/>vided for by the county as they paſſe, in quitting both counties within the time limited in the preſent Ar<g ref="char:EOLhyphen"/>ticle.</p>
+               </div>
+               <div n="8" type="article">
+                  <head>VIII.</head>
+                  <p>That all men, both Clergy and Laity, may return peaceably and quietly into their own houſes or places of abode, without let or perſecution for any offence paſt, expecting a generall pardon, or ſome other con<g ref="char:EOLhyphen"/>cluſion of theſe unhappy differences by the King and both Houſes of Parliament, and in the mean time to demean themſelves in Speech, Action, and Functi<g ref="char:EOLhyphen"/>on, <pb n="5" facs="tcp:155788:4"/> conformably to the lawes eſtabliſhed.</p>
+               </div>
+               <div n="9" type="article">
+                  <head>IX.</head>
+                  <p>That all plundered goods of whatſoever kind that ſhall be found not taken in Battell, be again delivered to the true owners.</p>
+               </div>
+               <div n="10" type="article">
+                  <head>X.</head>
+                  <p>That all Gentlemen that have been taken priſo<g ref="char:EOLhyphen"/>ners on either party in Battell or otherwiſe, be within <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> dayes delivered up and ſet at liberty.</p>
+               </div>
+               <div n="11" type="article">
+                  <head>XI.</head>
+                  <p>That we unanimouſly joyne together in a Peti<g ref="char:EOLhyphen"/>tion to the King, and both Houſes of Parliament for the ſetling a Generall Peace throughout the whole Kingdom, and confirmation of theſe Articles.</p>
+               </div>
+               <div n="12" type="article">
+                  <head>XII.</head>
+                  <p>For the concluſion of Peace.</p>
+               </div>
+            </div>
+            <div type="answers">
+               <head>Anſwers to the Articles propounded by the Com<g ref="char:EOLhyphen"/>miſsioners of <hi>Cornwall</hi> to thoſe of <hi>Devon.</hi>
+               </head>
+               <p>THe Preamble or the like in ſubſtance with ſome neceſſary alteration, wee will aſſent to be uſed, and put in the head of the Articles that ſhall be here<g ref="char:EOLhyphen"/>after agreed between us.</p>
+               <p>To the firſt Artile we ſay, we approve of the uſe of the Common Prayer, and of the diſcipline of the Church of <hi>England</hi> eſtabliſhed by law in ſuch man<g ref="char:EOLhyphen"/>ner as His Majeſty, and the Houſes of Parliament have ſeverally declared, and we aſſent that all depra<g ref="char:EOLhyphen"/>vers of the ſame be duly proceeded againſt according to the law.</p>
+               <p>To the ſecond we wholly agree.</p>
+               <p>
+                  <pb n="6" facs="tcp:155788:5"/>The third Article is likewiſe approved, including the city and county of <hi>Exon,</hi> we deſire that all things be done according to law, preferring the judgement thereof to thoſe that ever had and ought to have the power of declaring of it.</p>
+               <p>To the fifth wee ſay, our fortifications are for defence, and cannot be a terrour to other counties; <hi>Exeter</hi> and <hi>Plymouth</hi> make them by Authority of Act of Parliament, and Charters, other townes doe it by Authority of this preſent Parliament, His Ma<g ref="char:EOLhyphen"/>jeſties Forts are better garriſon'd in theſe trouble-ſometimes by His Majeſties expreſſe command, and cannot be ſafely reduced to the condition they were in before theſe differences, untill there be peace in <hi>England</hi> and
+<hi>Ireland,</hi> we are onely carefull in this cauſe, that while wee endeavour the peace of both counties, wee expoſe not thoſe places to the enemies of both works, upon Bridges, and Paſſages, upon the Borders of both Counties, wee aſſent to bee ſlighted for Armes, and Ammunition taken, or lent, there ſhall bee ſatisfaction given; except for ſuch as have been taken in Warre, or from delin<g ref="char:EOLhyphen"/>quents againſt the Parliament.</p>
+               <p>To the ſixth we ſay, that all Forces of horſe and foot cannot ſafely be disbanded, during the ſtirre and warlike Motion of other counties bordering upon <hi>Devon,</hi> and not upon <hi>Cornwall.</hi>
+               </p>
+               <p>To the ſeventh we cannot aſſent, in regard of our aſſociation with other counties, which we reſolve to obſerve, as we doe with you.</p>
+               <p>To the eighth Article we fully agree, for the Inha<g ref="char:EOLhyphen"/>bitants of
+<hi>Devon</hi> and <hi>Cornwall,</hi> and the city of <hi>Exon,</hi>
+                  <pb n="7" facs="tcp:155788:5"/> ſo as they goe with a retinue performed with their condition in a peaceable manner.</p>
+               <p>To the ninth, wee alſo agree.</p>
+               <p>To the tenth, we allow of this delivery of all Priſo<g ref="char:EOLhyphen"/>ners now within both theſe Counties, and the City of Exeter, of others wee have no power.</p>
+               <p>To the eleventh, wee ſhall willingly joyne in a Pe<g ref="char:EOLhyphen"/>tition to His Majeſty and both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, for ſetling a peace throughout the whole King<g ref="char:EOLhyphen"/>dome.</p>
+            </div>
+            <div type="reply">
+               <head>The replie of the Corniſh Commiſsioners.</head>
+               <p>VVEe conſent to any reaſonable neceſſary alte<g ref="char:EOLhyphen"/>ration in the preamble, if His Majeſty and both Houſes of Parliament ſend all Declarations, you explaine to be any Act or Acts of Parliament, wee are ſatisfied with your Anſwer; otherwiſe, if it be by the King alone, or either or both Houſes only, we take it not ſufficient to bind the Subject.</p>
+               <p>To the ſecond and third wee have no cauſe to re<g ref="char:EOLhyphen"/>plie.</p>
+               <p n="4">4. Having granted the ſecond, we marvaile why you ſhould ſeeme to deny the fourth, being but a branch of the ſecond, and a part of <hi>Magna Charta,</hi> the judg<g ref="char:EOLhyphen"/>ment whereof in point of alteration or declaration can be referred to none, but an Act of Parliament.</p>
+               <p>To the fifth, wee ſay that the fortifications and terrors of the neighbours againſt law, and prejudici<g ref="char:EOLhyphen"/>all to the peace of the Counties, wee deſire to ſee the Act of Parliament and Charter you mention, and
+<pb n="8" facs="tcp:155788:6"/> thoſe commands of His Majeſty, and to know whe<g ref="char:EOLhyphen"/>ther His Majeſties Forts be kept for His Majeſties uſe, for if otherwiſe, His Majeſty is diſpoſſeſt of His right, and the Charter's wrong'd; for by the Law no ſuch Fort or Caſtle can be kept againſt His Majeſty; wee doe not know that the Houſes have any Autho<g ref="char:EOLhyphen"/>rity, any Towne, without an Act of Parliament; we conceive it not ſufficient anſwer for the taking any mans goods, and ſay he is a Delinquent againſt the Parliament, except you ſhew what law he hath bro<g ref="char:EOLhyphen"/>ken, and likewiſe by the ordinary courſe of juſtice.</p>
+               <p>To the ſixth, as long as there is an Army in the County, there can be no aſſurance of peace to either County; and it is againſt the Law, the peace of the Kingdome, and the Oath of Allegiance, for Subjects to be in Armes without authority derived from His Majeſty.</p>
+               <p>By our diſſent to the ſeventh, you diſable your ſelves to performe that now which you have taken for the peace of the Counties, and impoſe us a neceſ<g ref="char:EOLhyphen"/>ſity of retaining men at Arms amongſt us, which, (we deſiring the peace of both Counties) deſire to be freed of, and they are likewiſe willing to paſſe thorough your County without the diſturbance of the peace thereof, and paying for what they take, and if by your Aſſociation, you have ſo farre ingaged your ſelves as you cannot make a perfect peace with us, wee con<g ref="char:EOLhyphen"/>ceive you therein brake your Proteſtation.</p>
+               <p>To the eighth and ninth wee take no exception.</p>
+               <p>To the tenth wee conceive, there is more cauſe to demand ſuch Priſoners as you have illegally taken &amp; ſent away, then for you to have ſuch from us as have <pb n="9" facs="tcp:155788:6"/> beene lawfully taken in battaile, or otherwiſe offen<g ref="char:EOLhyphen"/>ding the lawes.</p>
+               <p>To the eleventh, if the peace of the Kingdome be not ſetled, though wee heartily wiſh and pray for it, yet wee deſire for the peace of theſe two Counties, that our concluſion may be confirmed by the King and both Houſes of Parliament.</p>
+            </div>
+            <div type="reply">
+               <head>Replies to the Anſwers of <hi>Cornwall.</hi>
+               </head>
+               <p>To the firſt, wee doe willingly embrace the An<g ref="char:EOLhyphen"/>ſwer to the firſt Propoſition as wee apprehend it, and if wee differ not in the expoſition of ſome words and clauſes wee ſhall fully agree.</p>
+               <p>To the ſecond, wee
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ferre our ſelves to the An<g ref="char:EOLhyphen"/>ſwer to the tenth Article.</p>
+               <p>To the third, wee ſay that this Anſwer differs much from, and comes farre ſhort of your ninth Pro<g ref="char:EOLhyphen"/>poſition.</p>
+               <p>To the fourth, wee referre our ſelves to our An<g ref="char:EOLhyphen"/>ſwer to the eighth Article.</p>
+               <p>To the fifth, wee agree according to our Anſwer to the firſt Article.</p>
+               <p>To the ſixth, againſt this wee have nothing to replie.</p>
+            </div>
+            <div type="proposals">
+               <pb n="10" facs="tcp:155788:7"/>
+               <head>Propoſitions made by the Commiſsioners of <hi>Devon</hi> to thoſe of <hi>Cornwall.</hi>
+               </head>
+               <div n="1" type="proposal">
+                  <head>I.</head>
+                  <p>THat a mutuall aſſurance be given that they will not invade each other, but will unite againſt all invaders whatſoever of either, and that all honeſt wayes and meanes ſhall be uſed to preſerve the peace of both Counties, and to revive the ancient affection which hath been betweene them, and that what per<g ref="char:EOLhyphen"/>ſon ſoever, under what pretence ſoever ſhall ſtrive or endeavour to doe contrary hereunto, ſhall be held an enemy unto both Counties.</p>
+               </div>
+               <div n="2" type="proposal">
+                  <head>II.</head>
+                  <p>That all Priſoners one both ſides taken in, and by occaſion of the Warre in theſe Counties, and now remaining in durance of either of theſe Counties, be freely diſcharged, and that no more be hereafter ta<g ref="char:EOLhyphen"/>ken, by vertue or colour of this Warre.</p>
+               </div>
+               <div n="3" type="proposal">
+                  <head>III.</head>
+                  <p>That there be a free diſcharge of all Ships and goods, now detained in all and every the houſes of theſe Counties, and hence forth a free commerce and trade betweene them, as in times paſt before theſe un<g ref="char:EOLhyphen"/>happy differences.</p>
+               </div>
+               <div n="4" type="proposal">
+                  <head>IV.</head>
+                  <p>That all the Gentlemen, Miniſters, and others, that have beene driven from, or left their habitations in either of theſe Counties be permitted to returne in ſafety, and not be moleſted nor troubled, and the Mi<g ref="char:EOLhyphen"/>niſters quietly to enjoy their places, and go on in their miniſtery.</p>
+               </div>
+               <div n="5" type="proposal">
+                  <pb n="11" facs="tcp:155788:7"/>
+                  <head>V.</head>
+                  <p>That the Sheriffes and Juſtices of peace in both Counties take care, that no act of contempt, reproach or ſcandall be done, or ſuffered to be done in oppoſi<g ref="char:EOLhyphen"/>tion or contempt of the King, or this preſent Parlia<g ref="char:EOLhyphen"/>ment, or the booke of Common prayer, contrary to their late Proteſtation taken by order of the Parlia<g ref="char:EOLhyphen"/>ment, and that if any Miniſter or other ſhall do con<g ref="char:EOLhyphen"/>trary hereunto, he ſhall be brought to juſt puniſh<g ref="char:EOLhyphen"/>ment.</p>
+               </div>
+               <div n="6" type="proposal">
+                  <head>VI.</head>
+                  <p>That to the utmoſt of our powers, wee ſhall en<g ref="char:EOLhyphen"/>deavour to maintaine the Proteſtant Religion, and oppoſe all Papiſts and adherents.</p>
+                  <p>THeſe Propoſitions with the Anſwers and Replies were diſcuſſed at Mount Edgcombe houſe, adja<g ref="char:EOLhyphen"/>cent on the farther ſide of Crimwell paſſage, about two or three dayes after the taking of the foregoing ſolemn Proteſtation, confirming their integrity by the receiving of the holy Sacrament, at a place called Stonehouſe, halfe a miles diſtance from Plymouth, Doctor Aaron Wilſon preaching in the forenoone, and one Maſter Jelinger in the afternoone, but while they were thus labouring to unite theſe two diſ<g ref="char:EOLhyphen"/>joynted Counties, Cornwall and Devon, an unhappy accident intercepted their deſires, and abrupted their joyfull meeting, that they could come to no agree<g ref="char:EOLhyphen"/>ment, but adjourned their meeting at E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> on Wed<g ref="char:EOLhyphen"/>neſday the 15. of March, where the Corniſh Com<g ref="char:EOLhyphen"/>miſſioners, according to their agreement, repaired: but beyond their expectation were prevented from <pb n="12" facs="tcp:155788:8"/> their coming into the City, by reaſon of a Petition preſented to my Lord of Stamford, by a company of zealous, holy, religious women; That Petition being granted: the place of meeting generally agreed one, was at the ſigne of the Ship in Exbridge, where the Commiſſioners on both ſides ſate about two dayes and debated the ſame Propoſitions, but at laſt broke off, and prorogued their meeting on Wedneſday next at Stonehouſe, and on Thurſday next to Mount Edg<g ref="char:EOLhyphen"/>combe houſe, where I beſeech God that they may come to a happy agreement, and that they may ſettle theſe unhappy differences, which if not timely pre<g ref="char:EOLhyphen"/>vented, will be to the ruine of both theſe Counties. God in his mercy prevent them.</p>
+               </div>
+            </div>
+            <div type="lists_of_participants">
+               <list>
+                  <head>The names of the Commiſſioners for <hi>Cornwall.</hi>
+                  </head>
+                  <item>Sir <hi>Nicholas Flanning.</hi>
+                  </item>
+                  <item>
+                     <hi>William Curriton.</hi>
+                  </item>
+                  <item>
+                     <hi>William Scoone.</hi>
+                  </item>
+                  <item>
+                     <hi>Pearce Edgcombe.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Baſſet.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Trenanian.</hi>
+                  </item>
+                  <item>
+                     <hi>William Turteny.</hi>
+                  </item>
+                  <item>
+                     <hi>John Ackland.</hi>
+                  </item>
+                  <item>
+                     <hi>William Tothill.</hi>
+                  </item>
+               </list>
+               <p>There came hither of theſe but the foure firſt and the two laſt.</p>
+               <list>
+                  <head>The names of the <hi>Devonſhire</hi> Commiſſioners.</head>
+                  <item>Baronet <hi>Northcot.</hi>
+                  </item>
+                  <item>Baronet <hi>Bampfield.</hi>
+                  </item>
+                  <item>Baronet <hi>Poole.</hi>
+                  </item>
+                  <item>Sir <hi>Edmond Vowell.</hi>
+                  </item>
+                  <item>Sir <hi>Nicholas Martyn.</hi>
+                  </item>
+                  <item>Collonel <hi>Butter.</hi>
+                  </item>
+                  <item>Captaine <hi>Carew.</hi>
+                  </item>
+                  <item>Maſter <hi>Trefuſes.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155788:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
